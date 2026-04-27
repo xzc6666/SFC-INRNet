@@ -53,7 +53,7 @@ Our method exhibits superior performance in suppressing complex clutter and accu
 Visualizations demonstrate that each module (AFER, MSHN, FAID) contributes significantly to the final high-fidelity mask.
 
 <div align="center">
-  <img src="Fig/GT-AFE-FAID-MSHNAblation.png" alt="Ablation Results" width="850">
+  <img src="SFC-INRNet-main/Fig/GT-AFER-FAID-MSHNAblation.png" alt="Ablation Results" width="850">
   <p align="center">
     <b>Fig. 3. Visualized ablation studies highlighting the effectiveness of core components.</b>
   </p>
