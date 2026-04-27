@@ -1,0 +1,19 @@
+# ==========================================
+# SFC-INRNet Environment Requirements
+# ==========================================
+
+# Core Deep Learning Framework
+torch>=1.11.0
+torchvision>=0.12.0
+
+# Image Processing & Computer Vision
+opencv-python>=4.5.5
+scikit-image>=0.19.2
+
+# Scientific Computing & Metrics
+numpy>=1.21.5
+scipy>=1.7.3
+
+# Utilities & Visualization
+tqdm>=4.64.0
+tensorboard>=2.9.0
