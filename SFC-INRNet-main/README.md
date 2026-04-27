@@ -8,7 +8,7 @@ Official PyTorch implementation of "Spatial-Frequency Collaborative Implicit Rep
 
 > **Official PyTorch Implementation** of "Spatial-Frequency Collaborative Implicit Representation for Infrared Small Target Detection".
 > 
-> **Authors:** Zicheng Xu, Qianwen Ma, Guohua Liu*
+> **Authors:** Zicheng Xu
 > 
 > **Institution:** School of Mechanical Engineering, Tiangong University, Tianjin, China.
 
