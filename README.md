@@ -29,7 +29,7 @@ We present the SFC-INRNet framework tailored for the IRSTD task. Our main contri
 ## 🏗️ Network Architecture
 
 <div align="center">
-  <img src="Fig/overall_structure.png" alt="Overall Architecture" width="850">
+  <img src="overall_structure.png" alt="Overall Architecture" width="850">
   <p align="center">
     <b>Fig. 1. Overall architecture of the proposed SFC-INRNet.</b>
   </p>
