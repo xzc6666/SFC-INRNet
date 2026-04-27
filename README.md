@@ -8,7 +8,7 @@ Official PyTorch implementation of "Spatial-Frequency Collaborative Implicit Rep
 
 > **Official PyTorch Implementation** of "Spatial-Frequency Collaborative Implicit Representation for Infrared Small Target Detection".
 > 
-> **Authors:** Zicheng Xu, Qianwen Ma, Guohua Liu*
+> **Authors:** Zicheng Xu
 > 
 > **Institution:** School of Mechanical Engineering, Tiangong University, Tianjin, China.
 
@@ -29,7 +29,7 @@ We present the SFC-INRNet framework tailored for the IRSTD task. Experiments on 
 ## 🏗️ Network Architecture
 
 <div align="center">
-  <img src="Fig/总图_01.jpg" alt="Overall Architecture" width="850">
+  <img src="overall_structure.png" alt="Overall Architecture" width="850">
   <p align="center">
     <b>Fig. 1. Overall architecture of the proposed SFC-INRNet.</b>
   </p>
