@@ -43,7 +43,7 @@ We present the SFC-INRNet framework tailored for the IRSTD task. Our main contri
 Our method exhibits superior performance in suppressing complex clutter and accurately delineating target boundaries compared to state-of-the-art methods.
 
 <div align="center">
-  <img src="Fig/INRduibi.png" alt="Comparison Results" width="850">
+  <img src="SFC-INRNet-main/Fig/INRduibi.png" alt="Comparison Results" width="850">
   <p align="center">
     <b>Fig. 2. Visual comparison of SFC-INRNet against other SOTA methods on various datasets.</b>
   </p>
